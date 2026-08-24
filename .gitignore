@@ -1,0 +1,18 @@
+# Interné podklady a pracovné súbory
+tmp/
+assets/SOURCES.md
+README.txt
+
+# Neoptimalizované zdrojové súbory nepoužívané webom
+assets/brand/graphic-background.pdf
+assets/brand/karate-tabor-wordmark.pdf
+assets/brand/kt-logo-vector.pdf
+assets/images/banner-karate-tabor.jpg
+assets/images/brand-rays.png
+assets/images/organizer-portrait.jpeg
+assets/images/prihlaska-2027.jpg
+assets/images/program-scenes-ai.png
+
+# Systémové súbory
+.DS_Store
+Thumbs.db

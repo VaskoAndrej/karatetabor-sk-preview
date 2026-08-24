@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /archive.html
+
+Sitemap: https://karatetabor.sk/sitemap.xml
