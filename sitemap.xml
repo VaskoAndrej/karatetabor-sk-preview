@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://karatetabor.sk/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://karatetabor.sk/o-tabore.html</loc><changefreq>yearly</changefreq><priority>0.8</priority></url>
   <url><loc>https://karatetabor.sk/pravne-informacie.html</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
   <url><loc>https://karatetabor.sk/ochrana-sukromia.html</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
   <url><loc>https://karatetabor.sk/cookies.html</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
